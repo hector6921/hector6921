@@ -1,5 +1,5 @@
 ### I am an Infrastructure Automation Fellow at Kura Labs. I focus on and DevOps and Full-stack development.
-I have experience and knowledge in working with open source CI/CD tools/ Languages such as Jenkins, Docker, Kubernetes Git, Github, Python, Bash, and many more. I'm familiar with web development tools, frameworks/ Languages tools such as React, React-Native, Gatsby, HTML, CSS, Javascript for the front-end as well as Express.js, Flask, Next.js, Qraphql, sequelize, SQLite, MongoDB, Postgres, AWS (DynamoDB, RDS). I like to play guitar for fun and discover new foods and places to travel. I also love to meet new people, feel free to message me and connect.
+I have experience and knowledge in working with open source CI/CD tools/ Languages such as Jenkins, Docker, Kubernetes Git, Github, Python, Bash, and many more. I'm familiar with web development tools, frameworks/ Languages such as React, React-Native, Gatsby, HTML, CSS, Javascript for the front-end as well as Express.js, Flask, Next.js, Qraphql, sequelize, SQLite, MongoDB, Postgres, AWS (DynamoDB, RDS). I like to play guitar for fun and discover new foods and places to travel. I also love to meet new people, feel free to message me and connect.
 
 <!--
 **hector6921/hector6921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
